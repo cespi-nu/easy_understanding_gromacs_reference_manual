@@ -1,4 +1,4 @@
-prodect_name: easy_understanding_gromacs_reference_manual
+project_name: easy_understanding_gromacs_reference_manual
 author: yoda
 ***
  このフォルダ内の文書は[Gromacsの公式ドキュメント](https://manual.gromacs.org/current/index.html)内で、特にGromacsの実装の背景理論を解説している[Reference Manual](https://manual.gromacs.org/current/reference-manual/index.html)を読み下そうとしたものです。
